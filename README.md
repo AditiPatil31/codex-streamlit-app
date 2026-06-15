@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # 🔮 CodeX Price Range Predictor
 
 ## 📌 About the Project
@@ -102,5 +102,3 @@ codex-streamlit-app/
 - **AtliQ Technologies** for the internship opportunity
 - **CodeBasics** for project guidance
 =======
-# codex-streamlit-app
->>>>>>> 4906d67a37323d018dec33e0a1210a94b659f163
